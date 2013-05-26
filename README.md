@@ -1,7 +1,7 @@
-projects
+products
 ========
 
-This is a list of my projects. Please see https://github.com/matthewpalmer/ also.
+This is a list of my products. Please see https://github.com/matthewpalmer/ for open source projects.
 
 iOS
 === 
